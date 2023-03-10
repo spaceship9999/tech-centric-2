@@ -1,0 +1,14 @@
+<template>
+    <div class="container">
+        <div class="flex">
+            <div class="pt-[240px]">
+                <h1 class="t-64">{{ heading }}</h1>
+            </div>
+           
+        </div>
+    </div>
+</template>
+
+<script setup>
+const props = defineProps(['heading', 'image']);
+</script>
