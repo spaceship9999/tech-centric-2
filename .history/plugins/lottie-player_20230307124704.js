@@ -1,1 +1,0 @@
-import * as LottiePlayer from '@dotlottie/player-component';
